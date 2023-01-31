@@ -21,7 +21,7 @@ Link: https://pedroabreu04.github.io/OrcamentoPessoal-OO/index.html
   <li>Registre um novo orçamento ao clicar no botão azul (+), após informar todos os dados necessario</li>
   <li>Após o adicionar o registro, consute seus registro na parte superior do site na aba denominadá "Consulta"</li>
   <li>Você pode filtrar e excluir os seus registros se necessario</li>
-</oi>
+</ol>
 
 
 ### Autor:
